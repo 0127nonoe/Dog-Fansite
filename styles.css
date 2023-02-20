@@ -1,0 +1,38 @@
+/**********************TAG SELECTERS*********************/
+
+
+
+h1{
+  color: #191919;
+  font-size: 100px;
+  font-style:italic;
+}
+img:hover{
+  background-color: red;
+}
+
+body{
+  background-image: url(https://thumbs.dreamstime.com/b/dog-golden-retriever-jumping-autumn-leaves-autumnal-sunlight-77861618.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment:fixed;
+  text-align: center;
+}
+p{
+  font-size: 30px;
+  text-align: center;
+}
+
+
+/***********************CLASS SELECTERS*******************/
+.circular{
+  border-radius: 20px
+
+}
+.first{
+  background-color: #361500;
+}
+.second{
+  background-color: #603601;
+}
+/***********************ID SELECTORS**********************/
